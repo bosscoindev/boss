@@ -1,0 +1,9 @@
+Building BOSS
+
+See doc/readme-qt.rst for instructions on building BOSS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BOSS.
+
+See doc/build-*.txt for instructions on building bossd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BOSS.
